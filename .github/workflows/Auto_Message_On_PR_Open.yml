@@ -13,7 +13,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          responsableId: ${{ github.event.pull_request.node_id }}
+          respondableId: ${{ github.event.pull_request.node_id }}
           response: "Thanks for your valuable contribution, We will check your PR @${{ github.event.pull_request.user.login }} :) "
           author: ${{ github.event.pull_request.user.login }}
           exemptedAuthors: "Utkarsh-Saxena"
