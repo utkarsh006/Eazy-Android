@@ -1,8 +1,12 @@
+<!------------------------------------------------- Repo Cover -------------------------------------------------------------->
+
 <div align="center">
     <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/example%20img/LEARN%20KOTLIN.png" width="600" height="250"/>
 </div>  
 
 ##
+
+<!------------------------------------------------- Badges ------------------------------------------------------------------->
 
 <div align="center">
 
@@ -19,3 +23,8 @@
 ![Github Repo Size](https://img.shields.io/github/repo-size/utkarsh006/Learn-Kotlin?style=for-the-badge&color=943FF6)
 
 </div>
+
+<!--------------------------------------------------------------- TABLE OF CONTENTS -------------------------------------------------------------->
+
+<summary><b> Table of Contents :</b></summary>
+
