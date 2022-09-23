@@ -37,6 +37,7 @@
 * <a href="#Overview">Overview</a>
 * <a href="#Program">Open Source Programs</a>
 * <a href="#Contributing Guidelines">Contribution Guidelines</a>
+* <a href="#Maintainer">Project Maintainer</a>
 * <a href="#Contributors">Contributors</a>
 * <a href="#Feedback">Feedback</a>
 
@@ -78,7 +79,9 @@
 
 <div id="Maintainer"></div>
 
-<h1 align="center">Admin</h1>
+## Project Maintainers :
+
+<h2 align="center">Admin</h2>
 
 <table align="center">
 <tr>
@@ -88,7 +91,8 @@
 </table>
 
 <br>
-<h1 align="center"> Collaborator </h1>
+
+<h2 align="center"> Collaborator </h2>
 
 <table align="center">
 <tr>
