@@ -31,6 +31,7 @@
 * <a href="#Overview">Overview</a>
 * <a href="#Program">Open Source Programs</a>
 * <a href="#Contributing Guidelines">Contribution Guidelines</a>
+* <a href="#Maintainer">Project Maintainer</a>
 * <a href="#Contributors">Contributors</a>
 * <a href="#Feedback">Feedback</a>
 
@@ -44,7 +45,6 @@
     Hey, Everyone 👋 Glad to see you all here! Here you can add Kotlin Lang articles as well as articles and stuffs related to the core concepts of Android. Also contributors can add projects related to the android development.
 </h3>
 
-<br>
 <br>
 
 <div id="Program"></div>
@@ -60,6 +60,7 @@
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30"></a>
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30"></a>
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/made-with-kotlin.svg" width="300" height="30"></a>
+  
 </div>
 
 <div align="center">
@@ -68,3 +69,52 @@
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-E04168?style=for-the-badge" /></a></p>
 
+<!-- -------------------------------------------------------------------------- -->
+
+<div id="Maintainer"></div>
+
+## Project Maintainer :
+
+<table align="center">
+<tr>
+<td align="center"><a href="https://github.com/utkarsh006"><img src="https://avatars.githubusercontent.com/u/94545831?v=4" width=150px height=150px /></a></br> <h4  style="color:blue">Utkarsh Saxena</h4><br>
+<a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a></td>
+</tr>
+</table>
+
+<br>
+
+<!-- -------------------------------------------------------------------------- -->
+
+<div id="Contributors"></div>
+
+## Contributors :
+
+<a href="https://github.com/utkarsh006/Learn-Kotlin/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=utkarsh006/Learn-Kotlin" />
+</a>
+
+<br>
+
+<!-- -------------------------------------------------------------------------- -->
+
+<div id="Feedback"></div>
+
+## Feedback :
+
+If you have any feedback or suggestions please reach out to Project - Maintainer.  
+* [Utkarsh Saxena](https://github.com/utkarsh006) 
+
+Or you can create an  <a href="https://github.com/utkarsh006/Learn-Kotlin/issues">issue</a> where you can mention some new features or extensions that will enhance this project✨.
+
+<!-- -------------------------------------------------------------------------- -->
+
+<br>
+
+<div align="center">
+    <h3>Show some ❤️ by starring this repository!</h3>
+</div>
+
+<br>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-E04168?style=for-the-badge" /></a></p>
