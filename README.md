@@ -46,7 +46,6 @@
 </h3>
 
 <br>
-<br>
 
 <div id="Program"></div>
 
@@ -61,6 +60,7 @@
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30"></a>
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30"></a>
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/made-with-kotlin.svg" width="300" height="30"></a>
+  
 </div>
 
 <div align="center">
@@ -74,8 +74,6 @@
 <div id="Maintainer"></div>
 
 ## Project Maintainer :
-
-<h1 align="center">Project Admin</h1>
 
 <table align="center">
 <tr>
