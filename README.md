@@ -51,14 +51,15 @@
 
 ## Open Source Programs :
 
-##
+<br>
 
 <div align="center">
 
-  <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="207" ></a> 
+  <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="207" height="30"></a> 
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" ></a> 
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30"></a>
   <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30"></a>
+  <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/made-with-kotlin.svg" width="300" height="30"></a>
 </div>
 
 <div align="center">
