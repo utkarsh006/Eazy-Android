@@ -46,15 +46,15 @@
     Hey, Everyone 👋 Glad to see you all here! Here you can add Kotlin Lang articles as well as articles and stuffs related to the core concepts of Android. Also contributors can add projects related to the android development.
 </h3>
 
-##
-##
+<br>
+<br>
 
-<div id="Programs"></div>
+<div id="Program"></div>
 
-## Open Source Programs
+## Open Source Programs :
 
 ##
 <div align="center">
-    <img src="./.github/example%20img/1663926433662.jpg" width="300" height="150" />
+    <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/1663926433662.jpg" width="450" height="200" />
 </div>
 
