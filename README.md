@@ -51,8 +51,6 @@
     Hey, Everyone 👋 Glad to see you all here! Here you can add Kotlin Lang articles as well as articles and stuffs related to the core concepts of Android. Also contributors can add projects related to the android development.
 </h3>
 
-<br>
-
 <div id="Program"></div>
 
 ## Open Source Programs :
