@@ -66,5 +66,5 @@
     <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/1663926433662.jpg" width="450" height="200" />
 </div>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-E04168?style=for-the-badge" /></a></p>
 
