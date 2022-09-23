@@ -24,14 +24,19 @@
 
 </div>
 
+<br>
+
+<p align="center">
+    <a href="https://opensource.guide/"><strong>Open Source Guidelines</strong></a>
+</p>
+
 <!--------------------------------------------------------------- TABLE OF CONTENTS -------------------------------------------------------------->
 
-<summary><b> Table of Contents :</b></summary>
+<summary><b> Table of Contents 📃 :</b></summary>
 
 * <a href="#Overview">Overview</a>
 * <a href="#Program">Open Source Programs</a>
 * <a href="#Contributing Guidelines">Contribution Guidelines</a>
-* <a href="#Maintainer">Project Maintainer</a>
 * <a href="#Contributors">Contributors</a>
 * <a href="#Feedback">Feedback</a>
 
@@ -73,12 +78,21 @@
 
 <div id="Maintainer"></div>
 
-## Project Maintainer :
+<h1 align="center">Admin</h1>
 
 <table align="center">
 <tr>
-<td align="center"><a href="https://github.com/utkarsh006"><img src="https://avatars.githubusercontent.com/u/94545831?v=4" width=150px height=150px /></a></br> <h4  style="color:blue">Utkarsh Saxena</h4><br>
+<td align="center"><a href="https://github.com/utkarsh006"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG6fEtHa0pe9Q/profile-displayphoto-shrink_400_400/0/1637931187435?e=1669248000&v=beta&t=nr-fz3BLU_EYaIdg7zTHOrCfmoSWnaFfEn3ST-AbSOI" width=150px height=150px /></a></br> <h4  style="color:blue">Utkarsh Saxena</h4><br>
 <a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a></td>
+</tr>
+</table>
+
+<br>
+<h1 align="center"> Collaborator </h1>
+
+<table align="center">
+<tr>
+<td align="center"><a href="https://github.com/gurjeetsinghvirdee"><img src="https://avatars.githubusercontent.com/u/73753957?v=4" width=150px height=150px /></a></br> <h4 style="color:limegreen;">Gurjeet Singh Virdee</h4><br/><a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a></td>
 </tr>
 </table>
 
