@@ -35,8 +35,6 @@
 * <a href="#Feedback">Feedback</a>
 
 
-<p align="right"><a href="#Bottom"><img src="https://img.shields.io/badge/-%E2%AC%87%EF%B8%8F%20Scroll%20Down-E04168?style=for-the-badge" /></a></p>
-
 <!-- ------------------------------------------------------------ -->
 
 <div id="Overview"></div>
@@ -54,6 +52,15 @@
 ## Open Source Programs :
 
 ##
+
+<div align="center">
+
+  <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="207" ></a> 
+  <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" ></a> 
+  <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30"></a>
+  <a href="https://github.com/utkarsh006/Learn-Kotlin"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30"></a>
+</div>
+
 <div align="center">
     <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/1663926433662.jpg" width="450" height="200" />
 </div>
