@@ -17,11 +17,11 @@ Write here what changes you did
   
   You have to put `x` inside this `[]`
   
-  <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/example%20img/example.png" />
+  <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/example.png" />
   
   Preview
   
-  <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/example%20img/output.png" />
+  <img src="https://github.com/utkarsh006/Learn-Kotlin/blob/main/.github/IMG/output.png" />
   
 </div>  
 
