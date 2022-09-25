@@ -26,9 +26,10 @@
 
 <br>
 
-<p align="center">
-    <a href="https://opensource.guide/"><strong>Open Source Guidelines</strong></a>
-</p>
+<div align="center">
+    <a href="https://opensource.guide/"><strong>Open Source Guidelines</strong></a>  <br>      
+    <a href="https://github.com/utkarsh006/Learn-Kotlin/blob/main/Contribution%20Guidelines.md"><strong>Contribution Guidelines</strong></a>
+</div>
 
 <!--------------------------------------------------------------- TABLE OF CONTENTS -------------------------------------------------------------->
 
@@ -36,7 +37,6 @@
 
 * <a href="#Overview">Overview</a>
 * <a href="#Program">Open Source Programs</a>
-* <a href="#Contributing Guidelines">Contribution Guidelines</a>
 * <a href="#Maintainer">Project Maintainer</a>
 * <a href="#Contributors">Contributors</a>
 * <a href="#Feedback">Feedback</a>
