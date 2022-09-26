@@ -18,7 +18,7 @@
 ![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/utkarsh006/Eazy-Android?style=for-the-badge&color=E04168)
 ![GitHub language count](https://img.shields.io/github/languages/count/utkarsh006/Eazy-Android?style=for-the-badge&color=68C3FF)
 ![GitHub top language](https://img.shields.io/github/languages/top/utkarsh006/Eazy-Android?style=for-the-badge&color=943FF6)
-![GitHub last commit](https://img.shields.io/github/last-commit/utkarsh006/LEazy-Androidstyle=for-the-badge&color=E04168)
+![GitHub last commit](https://img.shields.io/github/last-commit/utkarsh006/Eazy-Android?style=for-the-badge&color=E04168)
 ![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-68C3FF.svg?style=for-the-badge)
 ![Github Repo Size](https://img.shields.io/github/repo-size/utkarsh006/Eazy-Android?style=for-the-badge&color=943FF6)
 
@@ -47,9 +47,9 @@
 <div id="Overview"></div>
 
 ## Overview :
-<h3>
+<h4>
     Hey, Everyone 👋 Glad to see you all here! Here you can add Kotlin Lang articles as well as articles and stuffs related to the core concepts of Android. Also contributors can add projects related to the android development.
-</h3>
+</h4>
 
 <div id="Program"></div>
 
