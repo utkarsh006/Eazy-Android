@@ -40,7 +40,8 @@ Thank you for helping out and remember, **no contribution is too small**. <br>
 - Yahoo ! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳
 
 <br> 
-Heya! Don't Worry 😇
+
+Heya! Don't Worry 😇, You can take help from this [Demo Article](https://github.com/utkarsh006/Eazy-Android/blob/main/Articles/Demo.md)
 
 It always takes time to understand and learn. So, do not worry at all. We know you have got this!💪 <br>
 
