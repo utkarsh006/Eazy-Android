@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4bade4e-8349-4419-8c24-22942d0d2a54" name="Changes" comment="" />
+    <list default="true" id="a4bade4e-8349-4419-8c24-22942d0d2a54" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/example img/Kotlin Full Color Logo Mark RGB.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/example img/LEARN KOTLIN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/example img/example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/example img/output.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/your-project-name" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -39,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663767360051</updated>
       <workItem from="1663767368331" duration="2457000" />
+      <workItem from="1663953463622" duration="27000" />
     </task>
     <servers />
   </component>
