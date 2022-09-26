@@ -28,7 +28,7 @@
 
 <div align="center">
     <a href="https://opensource.guide/"><strong>Open Source Guidelines</strong></a>  <br>      
-    <a href="https://github.com/utkarsh006/Eazy-Android/blob/main/Contribution%20Guidelines.md"><strong>Contribution Guidelines</strong></a>
+   📖 Checkout <a href="https://github.com/utkarsh006/Eazy-Android/blob/main/Contribution%20Guidelines.md"><strong>Contribution Guidelines</strong></a>
 </div>
 
 <!--------------------------------------------------------------- TABLE OF CONTENTS -------------------------------------------------------------->
