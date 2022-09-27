@@ -2,6 +2,7 @@
 We are happy to welcome all the contributions from anyone willing to improve this project. <br>
 Thank you for helping out and remember, **no contribution is too small**. <br>
 <br>
+- One contributor will work upon ```one issue at a time```.
 - Update the README as per your topic.
 - Add any article if it is not present in the folder.
 - Articles will be written in the ```.md``` format.
