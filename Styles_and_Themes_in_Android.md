@@ -71,6 +71,7 @@ For example, here's how to apply the Android Support Library's material design "
   
   ## Themes versus Styles
   
+  
   Themes and styles have many similarities, but they are used for different purposes. Themes and styles have the same basic structure—a key-value pair which maps attributes to resources.
 
 A style specifies attributes for a particular type of view. For example, one style might specify a button's attributes. Every attribute you specify in a style is an attribute you could set in the layout file. By extracting all the attributes to a style, it's easy to use and maintain them across multiple widgets.
