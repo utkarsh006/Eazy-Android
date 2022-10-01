@@ -5,7 +5,7 @@
 Styles and themes on Android allow you to separate the details of your app design from the UI structure and behavior, similar to (css) stylesheets in web design.
 A style is defined in an XML resource that is separate from the XML that specifies the layout.  The name of the XML file is arbitrary, but it must use the .xml extension.
 
-  Where as themes is a collection of attributes that's applied to an entire app, activity, or view hierarchy—not just an individual view. When you apply a theme, every view in the app or activity applies each of the theme's attributes that it supports. Themes can also apply styles to non-view elements, such as the status bar and window background.
+  Where as themes is a collection of attributes that's applied to an entire app, activity. When you apply a theme, every view in the app or activity applies each of the theme's attributes that it supports. Themes can also apply styles to non-view elements, such as the status bar and window background.
   
   
 ## Create and apply a style
@@ -19,12 +19,21 @@ For example, if you define the following style:
   
      <?xml version="1.0" encoding="utf-8"?>
     <resources>
-        <style name="GreenText" parent="TextAppearance.AppCompat">
+        <style name="MyText" parent="TextAppearance.AppCompat">
             <item name="android:textColor">#00FF00</item>
         </style>
     </resources>
   
+  ## Apply the theme
   
+      <resources>
+       ...
+          <style name="MyTheme" parent=...>
+             ...
+             <item name="android:buttonStyle">@style/MyButton</item>
+          </style>
+       ...
+    </resources>
 
 ## Apply a style as a theme
   You can create a theme the same way you create styles. The difference is how you apply it: instead of applying a style with the style attribute on a view, you apply a theme with the android:theme attribute on either the <application> tag or an <activity> tag in the AndroidManifest.xml file.
@@ -36,7 +45,7 @@ For example, here's how to apply the Android Support Library's material design "
           </application>
       </manifest> 
   
-  And here's how to apply the "light" theme to just one activity:
+  And here's how to apply the "light" theme to just one activity we can adjust or change the theme of our application as user needed:
   
         <manifest ... >
           <application ... >
@@ -51,7 +60,7 @@ For example, here's how to apply the Android Support Library's material design "
   
         <resources>
          ...
-         <style name="MyCustomTheme" ...>
+         <style name="MyTheme" ...>
             <item name="android:windowBackground">@color/my_custom_color</item>
             <item name="android:colorBackgroundCacheHint">@color/my_custom_color</item>
          </style>
@@ -60,23 +69,13 @@ For example, here's how to apply the Android Support Library's material design "
   
   ![theme](https://user-images.githubusercontent.com/102367845/193401550-4881ec95-beb2-4d7c-b7a9-130462a89314.png)
   
-  Using a Custom Nine-Patch With Buttons
-A nine-patch drawable is a special kind of image which can be scaled in width and height while maintaining its visual integrity. Nine-patches are the most common way to specify the appearance of Android buttons, though any drawable type can be used.
+  ## Themes versus Styles
+  
+  Themes and styles have many similarities, but they are used for different purposes. Themes and styles have the same basic structure—a key-value pair which maps attributes to resources.
 
-Nine Patch Button
-a Sample of Nine-Patch button
-Steps to create Nine-Patch Buttons
-Save this bitmap as /res/drawable/my_nine_patch.9.png
-Define a new style
-Apply the new button style to the buttonStyle attribute of your custom theme
+A style specifies attributes for a particular type of view. For example, one style might specify a button's attributes. Every attribute you specify in a style is an attribute you could set in the layout file. By extracting all the attributes to a style, it's easy to use and maintain them across multiple widgets.
+
+A theme defines a collection of named resources which can be referenced by styles, layouts, widgets, and so on. Themes assign semantic names, like colorPrimary, to Android resources.
+
+Styles and themes are meant to work together. For example, you might have a style that specifies that one part of a button should be colorPrimary, and another part should be colorSecondary. The actual definitions of those colors is provided in the theme. When the device goes into night mode, your app can switch from its "light" theme to its "dark" theme, changing the values for all those resource names. You don't need to change the styles, since the styles are using the semantic names and not specific color definitions.
   
-  ## Apply the theme
-  
-      <resources>
-       ...
-          <style name="MyCustomTheme" parent=...>
-             ...
-             <item name="android:buttonStyle">@style/MyCustomButton</item>
-          </style>
-       ...
-    </resources>
