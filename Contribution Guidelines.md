@@ -6,6 +6,7 @@ Thank you for helping out and remember, **no contribution is too small**. <br>
 - Update the README as per your topic.
 - Add any article if it is not present in the ```Article folder.```
 - Articles will be written in the ```.md``` format.
+- Name your md file appropriately. **Ex : 1_ Article.md**
 
 <br>
 
