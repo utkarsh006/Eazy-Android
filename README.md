@@ -48,7 +48,7 @@
 
 ## Overview :
 <h4>
-    Hey, Everyone 👋 Glad to see you all here! Here you can add articles and stuffs related to the core concepts of Android. Also contributors can add projects related to the android development(Kotlin) and UI Templates. Also, you can add Android Interview questions.
+    Hey, Everyone 👋 Glad to see you all here! Here you can add articles and stuffs related to the core concepts of Android. Also contributors can add Android Interview questions.
 </h4>
 
 <div id="Program"></div>
