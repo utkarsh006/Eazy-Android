@@ -2,15 +2,18 @@
 # Styles and Themes in Android
 
 
-Styles and themes on Android allow you to separate the details of your app design from the UI structure and behavior, similar to stylesheets in web design.
-A style is defined in an XML resource that is separate from the XML that specifies the layout. This XML file resides under res/values/ directory of your project and will have <resources> as the root node which is mandatory for the style file. The name of the XML file is arbitrary, but it must use the .xml extension.
-  Where as theme is a collection of attributes that's applied to an entire app, activity, or view hierarchy—not just an individual view. When you apply a theme, every view in the app or activity applies each of the theme's attributes that it supports. Themes can also apply styles to non-view elements, such as the status bar and window background.
- Create and apply a style
+Styles and themes on Android allow you to separate the details of your app design from the UI structure and behavior, similar to (css) stylesheets in web design.
+A style is defined in an XML resource that is separate from the XML that specifies the layout.  The name of the XML file is arbitrary, but it must use the .xml extension.
+
+  Where as themes is a collection of attributes that's applied to an entire app, activity, or view hierarchy—not just an individual view. When you apply a theme, every view in the app or activity applies each of the theme's attributes that it supports. Themes can also apply styles to non-view elements, such as the status bar and window background.
+  
+  
+## Create and apply a style
 To create a new style or theme, open your project's res/values/styles.xml file. For each style you want to create, follow these steps:
 
-Add a <style> element with a name that uniquely identifies the style.
-Add an <item> element for each style attribute you want to define.
-The name in each item specifies an attribute you would otherwise use as an XML attribute in your layout. The value in the <item> element is the value for that attribute.
+* Add a <style> element with a name that uniquely identifies the style.
+* Add an <item> element for each style attribute you want to define.
+* The name in each item specifies an attribute you would otherwise use as an XML attribute in your layout. The value in the <item> element is the value for that attribute.
 
 For example, if you define the following style:
   
@@ -21,12 +24,27 @@ For example, if you define the following style:
         </style>
     </resources>
   
-  You can apply the style to a view as follows:
   
-        <TextView
-          style="@style/GreenText"
-          ... />
+
+## Apply a style as a theme
+  You can create a theme the same way you create styles. The difference is how you apply it: instead of applying a style with the style attribute on a view, you apply a theme with the android:theme attribute on either the <application> tag or an <activity> tag in the AndroidManifest.xml file.
+
+For example, here's how to apply the Android Support Library's material design "dark" theme to the whole app:
   
+        <manifest ... >
+          <application android:theme="@style/Theme.AppCompat" ... >
+          </application>
+      </manifest> 
+  
+  And here's how to apply the "light" theme to just one activity:
+  
+        <manifest ... >
+          <application ... >
+              <activity android:theme="@style/Theme.AppCompat.Light" ... >
+              </activity>
+          </application>
+      </manifest>
+
   ## Applying Colors to Theme Attributes
   
   Your color resource can then be applied to some theme attributes, such as the window background and the primary text color, by adding <item> elements to your custom theme. These attributes are defined in your styles.xml file. For example, to apply the custom color to the window background, add the following two <item> elements to your custom theme, defined in MyAndroidApp/res/values/styles.xml file −
