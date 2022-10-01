@@ -2,9 +2,9 @@
 We are happy to welcome all the contributions from anyone willing to improve this project. <br>
 Thank you for helping out and remember, **no contribution is too small**. <br>
 <br>
-- One contributor will work upon ```one issue at a time```. When pull request of your previous issue is merged, then only the new issue will be assigned to you.
+- One contributor will work upon ```one issue at a time.``` When pull request of your previous issue is merged, then only the new issue will be assigned to you.
 - Update the README as per your topic.
-- Add any article if it is not present in the folder.
+- Add any article if it is not present in the ```Article folder.```
 - Articles will be written in the ```.md``` format.
 
 <br>
