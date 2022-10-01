@@ -14,11 +14,11 @@ Write here what changes you did
 - [] My Code follows the code style of this project.
 - [] The title of My PR is a short description of the requested changes.
 - [] Artticle/Blog added in Article Folder.
-- [] I have stared this repo.
+- [] I have starred this repo.
 
 ## Note to Reviewers 
 
-( If you want to write additional points for maintainer note down here )
+( If you want to write additional points for the maintainer note them down here )
 
 <!-- Add notes to reviewers if applicable -->
 
