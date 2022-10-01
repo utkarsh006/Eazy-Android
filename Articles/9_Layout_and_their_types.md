@@ -3,15 +3,15 @@ The basic building block for user interface is a View object which is created fr
 
 The ViewGroup is a subclass of View and provides invisible container that hold other Views or other ViewGroups and define their layout properties.
 
-At third level we have different layouts which are subclasses of ViewGroup class and a typical layout defines the visual structure for an Android user interface and can be created either at run time using View/ViewGroup objects or you can declare your layout using simple XML file main_layout.xml which is located in the res/layout folder of your project.
+At third level we have different <b> layouts which are subclasses of ViewGroup class</b> and a typical layout defines the visual structure for an Android user interface and can be created either at run time using View/ViewGroup objects or you can declare your layout using simple XML file main_layout.xml which is located in the res/layout folder of your project.
 
 # Layout
 As explained above, designing gets done in these stages:
-1. you have view that is base class for widgets like button, textView etc...
-2. you have group of those views, an invisible container that holds other views which can be termed as      ViewGroup like RecyclerView, ListView etc...
-3. We have layouts like LinearLayout, RelativeLayout etc... that hold views and viewgroups. 
+- you have <b>view</b> that is base class for widgets like button, textView etc...
+- you have group of those views, an invisible container that holds other views which can be termed as <b>ViewGroup</b> like RecyclerView, ListView etc...
+- We have <b>layouts</b> like LinearLayout, RelativeLayout etc... that hold views and viewgroups. 
  
-When you open any activity.xml file you get to see a parent Layout (usually ConstraintLayout) that holds view and viewgroups as child in it. 
+When you open any activity.xml file you get to see a parent Layout (usually <b>ConstraintLayout</b>) that holds view and viewgroups as child in it. 
 <br> 
 Lets understand the graph:
 <br><hr>
@@ -51,7 +51,7 @@ Typical syntax is as follows:
    
 < / LinearLayout >
 </pre>
-Once your layout has created, you can load the layout resource from your application code, in your Activity.onCreate() callback implementation as follows --
+<b>Once your layout has created, you can load the layout resource from your application code, in your Activity.onCreate() callback implementation as follows --</b>
 <br><hr><pre>
 public void onCreate(Bundle savedInstanceState) {
    super.onCreate(savedInstanceState);
@@ -60,11 +60,17 @@ public void onCreate(Bundle savedInstanceState) {
 </pre>
 <hr>
 
+# Properties of Layout
+- Layouts are subclasses of ViewGroup class
+- defines the visual structure for an Android user interface
+- can be created either at <b>run time using View/ViewGroup objects</b>
+- you can also declare your layout using simple <b>XML file main_layout.xml which is located in the res/layout folder of your project.</b>
+
 # Types of Layout
 There are numerous Layouts provided by Android which you will use in almost all the Android applications to provide different view, look and feel.
 Let's look at some of the layouts:
 
-## 1. GridView: GridView is a ViewGroup that displays items in a two-dimensional, scrollable grid.
+- ## GridView: GridView is a ViewGroup that displays items in a two-dimensional, scrollable grid.
 Lets consider UI of Myntra's fashion wear page. We can see a scrollable 2D list of items. Though there is a use of recyclerview there but the layoutManager is set to gridview there too. So, GridView is used when there is a requirement of displaying list in 2D
 
 <br>
@@ -98,7 +104,7 @@ Lets consider UI of Myntra's fashion wear page. We can see a scrollable 2D list 
 </pre>
 <br>
 
-## 2. ListView: ListView is a view group that displays a list of scrollable items.
+- ##  ListView: ListView is a view group that displays a list of scrollable items.
 ListView as the name suggests, displays items in list format that can be scrolled. All the items to be displayed are pre-loaded even if item is not visible on screen due to screen size unlike RecyclerView wherein only the items that are visible on user screen at a time ,are fetched.
 <br>
 <pre>
@@ -131,7 +137,7 @@ ListView as the name suggests, displays items in list format that can be scrolle
 </pre>
 <br>
 
-## 3. FrameLayout: The FrameLayout is a placeholder on screen that you can use to display a single view.
+- ##  FrameLayout: The FrameLayout is a placeholder on screen that you can use to display a single view.
 An example would be, if you want to have lottie animations in a particular part of screen or say a table in a particular part of screen then FrameLayout can be used. 
 
 <br>
@@ -165,7 +171,7 @@ An example would be, if you want to have lottie animations in a particular part 
 </pre>
 <br>
 
-## 4. AbsoluteLayout: AbsoluteLayout enables you to specify the exact location of its children.
+- ##  AbsoluteLayout: AbsoluteLayout enables you to specify the exact location of its children.
 In this layout, the exact location is specified of the child items present there. 
 
 <br>
@@ -199,7 +205,7 @@ In this layout, the exact location is specified of the child items present there
 </pre>
 <br>
 
-## 5. TableLayout: TableLayout is a view that groups views into rows and columns.
+- ##  TableLayout: TableLayout is a view that groups views into rows and columns.
 If you wish to form a table and display it on screen just as we have tables in html file, you can use TableLayout and using its attributes you can design the rows and columns as per the requirements of Table.
 
 <br>
@@ -234,7 +240,7 @@ If you wish to form a table and display it on screen just as we have tables in h
 <br>
 
 
-## 6. RelativeLayout: RelativeLayout is a view group that displays child views in relative positions.
+- ##  RelativeLayout: RelativeLayout is a view group that displays child views in relative positions.
 Alan should sit next to Puja ,who is sitting behind Dmitriv.
 Well, this can be precisely made possible using RelativeLayout wherein you can define that button should be toLeftOf textView.
 
@@ -274,7 +280,7 @@ Well, this can be precisely made possible using RelativeLayout wherein you can d
 </pre>
 <br>
 
-## 7. LinearLayout: LinearLayout is a view group that aligns all children in a single direction, vertically or horizontally.
+- ##  LinearLayout: LinearLayout is a view group that aligns all children in a single direction, vertically or horizontally.
 Unlike RelativeLayout, LinearLayout places items in single direction be it horizontal or verticle. A straight line format is followed here.
 
 <br>
@@ -310,51 +316,52 @@ Unlike RelativeLayout, LinearLayout places items in single direction be it horiz
 <br>
 
 
+
 ## Attributes of layout:
-1. android:id
+- android:id
 This is the ID which uniquely identifies the view.
 
-2. android:layout_width
+- android:layout_width
 This is the width of the layout.
 
-3. android:layout_height
+- android:layout_height
 This is the height of the layout
 
-4. android:layout_marginTop
+- android:layout_marginTop
 This is the extra space on the top side of the layout.
 
-5. android:layout_marginBottom
+- android:layout_marginBottom
 This is the extra space on the bottom side of the layout.
 
-6. android:layout_marginLeft
+- android:layout_marginLeft
 This is the extra space on the left side of the layout.
 
-7. android:layout_marginRight
+- android:layout_marginRight
 This is the extra space on the right side of the layout.
 
-8. android:layout_gravity
+- android:layout_gravity
 This specifies how child Views are positioned.
 
-9. android:layout_weight
+- android:layout_weight
 This specifies how much of the extra space in the layout should be allocated to the View.
 
-10. android:layout_x
+- android:layout_x
 This specifies the x-coordinate of the layout.
 
-11. android:layout_y
+- android:layout_y
 This specifies the y-coordinate of the layout.
 
-12. android:layout_width
+- android:layout_width
 This is the width of the layout.
 
-13. android:paddingLeft
+- android:paddingLeft
 This is the left padding filled for the layout.
 
-14. android:paddingRight
+- android:paddingRight
 This is the right padding filled for the layout.
 
-15. android:paddingTop
+- android:paddingTop
 This is the top padding filled for the layout.
 
-16. android:paddingBottom
+- android:paddingBottom
 This is the bottom padding filled for the layout.
