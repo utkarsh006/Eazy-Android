@@ -1,7 +1,7 @@
 ## Layout and its types
-The basic building block for user interface is a View object which is created from the View class and occupies a rectangular area on the screen and is responsible for drawing and event handling. View is the base class for widgets, which are used to create interactive UI components like buttons, text fields, etc.
+The <b>basic building block for user interface is a View object</b> which is created from the View class and occupies a rectangular area on the screen and is responsible for drawing and event handling. View is the base class for widgets, which are used to create interactive UI components like buttons, text fields, etc.
 
-The ViewGroup is a subclass of View and provides invisible container that hold other Views or other ViewGroups and define their layout properties.
+The <b>ViewGroup is a subclass of View</b> and provides invisible container that hold other Views or other ViewGroups and define their layout properties.
 
 At third level we have different <b> layouts which are subclasses of ViewGroup class</b> and a typical layout defines the visual structure for an Android user interface and can be created either at run time using View/ViewGroup objects or you can declare your layout using simple XML file main_layout.xml which is located in the res/layout folder of your project.
 
@@ -61,8 +61,8 @@ public void onCreate(Bundle savedInstanceState) {
 <hr>
 
 # Properties of Layout
-- Layouts are subclasses of ViewGroup class
-- defines the visual structure for an Android user interface
+- Layouts are <b>subclasses of ViewGroup class</b>
+- defines the <b>visual structure</b> for an Android user interface
 - can be created either at <b>run time using View/ViewGroup objects</b>
 - you can also declare your layout using simple <b>XML file main_layout.xml which is located in the res/layout folder of your project.</b>
 
@@ -105,7 +105,7 @@ Lets consider UI of Myntra's fashion wear page. We can see a scrollable 2D list 
 <br>
 
 - ##  ListView: ListView is a view group that displays a list of scrollable items.
-ListView as the name suggests, displays items in list format that can be scrolled. All the items to be displayed are pre-loaded even if item is not visible on screen due to screen size unlike RecyclerView wherein only the items that are visible on user screen at a time ,are fetched.
+ListView as the name suggests, displays items in list format that can be scrolled. All the items to be displayed are pre-loaded even if item is not visible on screen due to screen size unlike RecyclerView wherein only the items that are visible on user screen at a time , are fetched.
 <br>
 <pre>
 
