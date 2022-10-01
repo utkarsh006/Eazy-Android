@@ -315,6 +315,45 @@ Unlike RelativeLayout, LinearLayout places items in single direction be it horiz
 </pre>
 <br>
 
+ - ## Constraint Layout: Views in this layout have are alinged with a invisible constraint
+ Consider constraints as springs attached to all the 4 sides of your view. This binds the view from moving to random place (defined in pixels) while in runtime as the application will run on multiple devices of different shape and forms. The spring mechanism (just to explain) helps to fix the view at one place.
+Constraints are as follows:
+- topToBottomOf: Align the top of view to bottom of parent or other view.
+- topToTopOf: Align the top of view to top of parent or another view.
+- bottomToBottomOf: Align the bottom of view to bottom of parent or another view.
+- bottomToTopOf: Align the bottom of view to top of parent or another views.
+etc... 
+
+<br>
+<pre>
+
+                               ___________________________
+                              |             /             |
+                              |             \             |
+                              |       ______/_______      |
+                              |      |              |     |
+                              |      |              |     |
+                              |      |    Button    |     |
+                              |\/\/\/|              |\/\/\|
+                              |      |              |     |
+                              |      |              |     |
+                              |      |              |     |
+                              |      |______________|     |
+                              |            \              |
+                              |            /              |
+                              |            \              |
+                              |            /              |
+                              |            \              |
+                              |            /              |
+                              |            \              |
+                              |            /              |
+                              |            \              |
+                              |            /              |
+                              |            \              |
+                              |____________/______________|
+
+</pre>
+<br>
 
 
 ## Attributes of layout:
