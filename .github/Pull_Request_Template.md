@@ -11,22 +11,9 @@ Write here what changes you did
 
 ## Check List ( Tick all the applicable boxes )
 
-### Image demosnstration for newbies
-
-<div align="center">
-  
-  You have to put `x` inside this `[]`
-  
-  <img src="https://github.com/utkarsh006/Eazy-Android/blob/main/.github/IMG/example.png" />
-  
-  Preview
-  
-  <img src="https://github.com/utkarsh006/Eazy-Android/blob/main/.github/IMG/output.png" />
-  
-</div>  
-
 - [] My Code follows the code style of this project.
 - [] The title of My PR is a short description of the requested changes.
+- [] Artticle/Blog added in Article Folder.
 - [] I have stared this repo.
 
 ## Note to Reviewers 
@@ -36,5 +23,3 @@ Write here what changes you did
 <!-- Add notes to reviewers if applicable -->
 
 ## Upload Output Screenshots/Gif
-
-
