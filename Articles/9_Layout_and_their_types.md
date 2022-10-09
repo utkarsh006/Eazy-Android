@@ -64,7 +64,7 @@ public void onCreate(Bundle savedInstanceState) {
 
 There are numerous Layouts provided by Android which you will use in almost all the Android applications to provide different view, look and feel. Let's look at some of the layouts below.
 
-## GridView: ViewGroup to display items in a two-dimensional and scrollable grid
+### GridView: ViewGroup to display items in a two-dimensional and scrollable grid
 
 Lets consider UI of Myntra's fashion wear page. We can see a scrollable 2D list of items. Though there is a use of recyclerview there but the layoutManager is set to gridview there too. So, GridView is used when there is a requirement of displaying list in 2D
 
@@ -98,7 +98,7 @@ Lets consider UI of Myntra's fashion wear page. We can see a scrollable 2D list 
 
 </pre>
 
-## ListView: ViewGroup to display a list of scrollable items
+### ListView: ViewGroup to display a list of scrollable items
 
 ListView as the name suggests, displays items in list format that can be scrolled. All the items to be displayed are pre-loaded even if item is not visible on screen due to screen size unlike RecyclerView wherein only the items that are visible on user screen at a time , are fetched.
 
@@ -131,7 +131,7 @@ ListView as the name suggests, displays items in list format that can be scrolle
 
 </pre>
 
-##  FrameLayout: Placeholder on screen that you can use to display a single view
+### FrameLayout: Placeholder on the screen that you can use to display a single view
 
 An example would be, if you want to have lottie animations in a particular part of screen or say a table in a particular part of screen then FrameLayout can be used. 
 
@@ -164,7 +164,7 @@ An example would be, if you want to have lottie animations in a particular part 
 
 </pre>
 
-##  AbsoluteLayout: Specify the exact location of its children
+### AbsoluteLayout: Specify the exact location of its children
 
 In this layout, the exact location is specified of the child items present there. 
 
@@ -197,7 +197,7 @@ In this layout, the exact location is specified of the child items present there
 
 </pre>
 
-## TableLayout: View that groups views into rows and columns
+### TableLayout: View that groups views into rows and columns
 
 If you wish to form a table and display it on screen just as we have tables in html file, you can use TableLayout and using its attributes you can design the rows and columns as per the requirements of Table.
 
@@ -230,7 +230,7 @@ If you wish to form a table and display it on screen just as we have tables in h
 
 </pre>
 
-## RelativeLayout: ViewGroup that displays child views in relative positions
+### RelativeLayout: ViewGroup that displays child views in relative positions
 
 Alan should sit next to Puja who is sitting behind Dmitriv.
 
@@ -270,7 +270,7 @@ Well, this can be precisely made possible using RelativeLayout wherein you can d
 
 </pre>
 
-## LinearLayout: ViewGroup that aligns all children in a single direction (vertically or horizontally)
+### LinearLayout: ViewGroup that aligns all children in a single direction (vertically or horizontally)
 
 Unlike RelativeLayout, LinearLayout places items in single direction be it horizontal or verticle. A straight line format is followed here.
 
@@ -304,7 +304,7 @@ Unlike RelativeLayout, LinearLayout places items in single direction be it horiz
 
 </pre>
 
-## Constraint Layout: Views in this layout have are alinged with a invisible constraint
+### ConstraintLayout: Views in this layout are aligned with an invisible constraint
 
 Consider constraints as springs attached to all the 4 sides of your view. This binds the view from moving to random place (defined in pixels) while in runtime as the application will run on multiple devices of different shape and forms. The spring mechanism (just to explain) helps to fix the view at one place.
 Constraints are as follows:
