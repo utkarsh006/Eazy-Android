@@ -6,7 +6,7 @@ Designing is done in three stages:
 
 - **View** is the base class for widgets, which are used to create interactive UI components like buttons, text fields, etc. A View object is created from the View class and occupies a rectangular area on the screen.
 - **ViewGroup**: Subclass of the View class. Provides an invisible container that hold other Views or other ViewGroups and define their layout properties. Examples are RecyclerView, ListView, etc.
-- **Layouts**: Subclasses of the ViewGroup class. A typical layout defines the visual structure for an Android user interface. You can create it either at run time using View/ViewGroup objects or you can declare your layout using simple XML file main_layout.xml which is located in the res/layout folder of your project. Examples are LinearLayout, RelativeLayout, etc.
+- **Layouts**: Subclasses of the ViewGroup class. A typical layout defines the visual structure for an Android user interface. You can create it either at run time using View/ViewGroup objects or you can declare your layout using an XML file main_layout.xml which is located in the res/layout folder of your project. Examples are LinearLayout, RelativeLayout, etc. Learn more about these [example layouts](#different-layout-types).
 
 When you open any *activity.xml* file, you see a parent Layout (usually <b>ConstraintLayout</b>) that holds view and viewgroups as child in it. 
 
