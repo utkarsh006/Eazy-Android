@@ -105,7 +105,7 @@
 ## Contributors :
 
 <a href="https://github.com/utkarsh006/Eazy-Android/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=utkarsh006/Learn-Kotlin" />
+  <img src="https://contrib.rocks/image?repo=utkarsh006/Eazy-Android" />
 </a>
 
 <br>
