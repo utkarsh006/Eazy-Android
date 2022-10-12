@@ -1,12 +1,4 @@
-<!------------------------------------------------- Repo Cover -------------------------------------------------------------->
-
-<div align="center">
-    <img src="https://github.com/utkarsh006/Eazy-Android/blob/main/.github/IMG/banner.gif" width="550" height="250"/>
-</div>  
-
-##
-
-<!------------------------------------------------- Badges ------------------------------------------------------------------->
+# Eazy Android
 
 <div align="center">
 
@@ -24,111 +16,34 @@
 
 </div>
 
-<br>
-
 <div align="center">
-    <a href="https://opensource.guide/"><strong>Open Source Guidelines</strong></a>  <br>      
-   📖 Checkout <a href="https://github.com/utkarsh006/Eazy-Android/blob/main/Contribution%20Guidelines.md"><strong>Contribution Guidelines</strong></a>
-</div>
+    <img src="https://github.com/utkarsh006/Eazy-Android/blob/main/.github/IMG/banner.gif" width="550" height="250"/>
+</div>  
 
-<!--------------------------------------------------------------- TABLE OF CONTENTS -------------------------------------------------------------->
+<div align="center">Show some ❤️ by starring this repository!</div>
 
-<summary><b> Table of Contents 📃 :</b></summary>
+## Welcome
 
-* <a href="#Overview">Overview</a>
-* <a href="#Program">Open Source Programs</a>
-* <a href="#Maintainer">Project Maintainer</a>
-* <a href="#Contributors">Contributors</a>
-* <a href="#Feedback">Feedback</a>
+**Hey, Everyone** 👋 
 
+**Glad to see you all here! Add articles and stuff related to the Android core concepts, as well as Android Interview questions.**
 
-<!-- ------------------------------------------------------------ -->
+Check out the [open source guides](https://opensource.guide) and our [contribution guidelines](Contribution%20Guidelines.md).
 
-<div id="Overview"></div>
+## Open Source Programs
 
-## Overview :
-<h4>
-    Hey, Everyone 👋 Glad to see you all here! Here you can add articles and stuffs related to the core concepts of Android. Also contributors can add Android Interview questions.
-</h4>
+[Hacktoberfest 2022](https://hacktoberfest.com/)
 
-<div id="Program"></div>
+## Maintainers
 
-## Open Source Programs :
+| Maintainer   | Collaborator |
+| :----------: | :----------: |
+| <a href="https://github.com/utkarsh006"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG6fEtHa0pe9Q/profile-displayphoto-shrink_400_400/0/1637931187435?e=1669248000&v=beta&t=nr-fz3BLU_EYaIdg7zTHOrCfmoSWnaFfEn3ST-AbSOI" width=150px height=150px /></a><br>Utkarsh Saxena<br><a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a> | <a href="https://github.com/gurjeetsinghvirdee"><img src="https://avatars.githubusercontent.com/u/73753957?v=4" width=150px height=150px /></a></br>Gurjeet Singh Virdee</h4><br/><a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a>
 
-<br>
-
-<div align="center">
-
-  <a href="https://github.com/utkarsh006/Eazy-Android"><img src="https://forthebadge.com/images/badges/built-by-developers.svg" width="207" height="30"></a> 
-  <a href="https://github.com/utkarsh006/Eazy-Android"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" ></a> 
-  <a href="https://github.com/utkarsh006/Eazy-Android"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30"></a>
-  <a href="https://github.com/utkarsh006/Eazy-Android"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30"></a>
-</div>
-
-<div align="center">
-    <img src="https://github.com/utkarsh006/Eazy-Android/blob/main/.github/IMG/1663926433662.jpg" width="450" height="200" />
-</div>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-E04168?style=for-the-badge" /></a></p>
-
-<!-- -------------------------------------------------------------------------- -->
-
-<div id="Maintainer"></div>
-
-## Project Maintainers :
-
-<h2 align="center">Admin</h2>
-
-<table align="center">
-<tr>
-<td align="center"><a href="https://github.com/utkarsh006"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQG6fEtHa0pe9Q/profile-displayphoto-shrink_400_400/0/1637931187435?e=1669248000&v=beta&t=nr-fz3BLU_EYaIdg7zTHOrCfmoSWnaFfEn3ST-AbSOI" width=150px height=150px /></a></br> <h4  style="color:blue">Utkarsh Saxena</h4><br>
-<a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a></td>
-</tr>
-</table>
-
-<br>
-
-<h2 align="center"> Collaborator </h2>
-
-<table align="center">
-<tr>
-<td align="center"><a href="https://github.com/gurjeetsinghvirdee"><img src="https://avatars.githubusercontent.com/u/73753957?v=4" width=150px height=150px /></a></br> <h4 style="color:limegreen;">Gurjeet Singh Virdee</h4><br/><a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a></td>
-</tr>
-</table>
-
-<br>
-
-<!-- -------------------------------------------------------------------------- -->
-
-<div id="Contributors"></div>
-
-## Contributors :
+## Contributors & feedback
 
 <a href="https://github.com/utkarsh006/Eazy-Android/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=utkarsh006/Eazy-Android" />
 </a>
 
-<br>
-
-<!-- -------------------------------------------------------------------------- -->
-
-<div id="Feedback"></div>
-
-## Feedback :
-
-If you have any feedback or suggestions please reach out to Project - Maintainer.  
-* [Utkarsh Saxena](https://github.com/utkarsh006) 
-
-Or you can create an  <a href="https://github.com/utkarsh006/Eazy-Android/issues">issue</a> where you can mention some new features or extensions that will enhance this project✨.
-
-<!-- -------------------------------------------------------------------------- -->
-
-<br>
-
-<div align="center">
-    <h3>Show some ❤️ by starring this repository!</h3>
-</div>
-
-<br>
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-E04168?style=for-the-badge" /></a></p>
+If you have any feedback or suggestions, please reach out to me ([Utkarsh Saxena](https://github.com/utkarsh006)) or [create an issue](https://github.com/utkarsh006/Eazy-Android/issues) where you can mention some new features or extensions that will enhance this project. ✨
