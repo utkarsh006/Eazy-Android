@@ -11,10 +11,10 @@ Write here what changes you did
 
 ## Check List ( Tick all the applicable boxes )
 
-- [] My Code follows the code style of this project.
-- [] The title of My PR is a short description of the requested changes.
-- [] Artticle/Blog added in Article Folder.
-- [] I have starred this repo.
+- [ ] My Code follows the code style of this project.
+- [ ] The title of My PR is a short description of the requested changes.
+- [ ] Article/Blog added in Article Folder.
+- [ ] I have starred this repo.
 
 ## Note to Reviewers 
 
