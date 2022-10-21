@@ -1,11 +1,11 @@
-#About Android Project Structure
+# About Android Project Structure
 Creating an Android project in Android Studio is as simple as clicking a few buttons. Along the way you will be asked to choose the minimum Android SDK that will be supported by your application. Of course, you are still able to change this in the course of developing your application.
 
 Once created, the project files contain various folders and files about project settings as well as your Android Application module.
 
 ![project_structure](https://miro.medium.com/max/600/1*7HPcMIu90tbDkDZNz3QRzw.png "Top-level view of Android project in Android Studio")
 
-###Let’s go through the project-wide files briefly.
+### Let’s go through the project-wide files briefly.
 
 * .idea directory contains Intellij IDEA settings.
 * .gitignore file specifies which files/directories to be ignored by Git
@@ -13,7 +13,7 @@ Once created, the project files contain various folders and files about project 
 * build.gradle allows you to customise properties for build system such as setting location of your keystore used for signing the app-release.apk.
 * settings.gradle tells sub-projects for gradle to build.
 
-###Now, let’s take a closer look inside your app folder.
+### Now, let’s take a closer look inside your app folder.
 
 ![app_level_project_structure](https://miro.medium.com/max/600/1*ASUkWTnLsvjfc3Tw3BmzLw.png "App Level Project Structure")
 
