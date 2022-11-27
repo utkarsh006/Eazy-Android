@@ -55,15 +55,11 @@ As stated earlier, the manifest tag includes nodes that define the applicaiton c
 # Android Application Manifest Node Tags
 
 ## Application: 
-A manifest can contain only one application node. This uses attributes to specify the metadata for your android application (title,icon, and theme). Besides that, it acts as a container that includes the Activity, Service, Content Provider and Broadcast Receiver tags for specifying the application components:
-    ### Activity:
-                  For every activity displayed by your android application, an activity tag is required. You set it using android:name attribute to specify the class name. It must include the main Launch Activity and any other screen or dialog that can be displayed. If you try to start an Activity that is not defined, you will get a runtime exception. Each Activity node supports intent-filter child tags which specify which Intents launch the activity.
-    ### Service: 
-                  Just like the activity tag, you must create a new service for each Service class used inside your application. Service tags also support intent-filter child tags to allow late runtime binding.
-    ###  Provider:
-                  Provider tags are used for each of your application's Content Providers. Content Providers are used to manage database access and sharing within and between applications.
-    ### Receiver:
-                  You can register a Broadcast Receiver by adding a receiver tag without having to launch your applicatoin first. Broadcast Receivers are most like global event listeners - once registerd, they will execute whenever a matching Intent is broadcast by an application.
+A manifest can contain only one application node. This uses attributes to specify the metadata for your android application (title,icon, and theme). Besides that, it acts as a container that includes the **Activity, Service, Content Provider and Broadcast Receiver tags** for specifying the application components:
+- **Activity**: For every activity displayed by your android application, an activity tag is required. You set it using android:name attribute to specify the class name. It must include the main Launch Activity and any other screen or dialog that can be displayed. If you try to start an Activity that is not defined, you will get a runtime exception. Each Activity node supports intent-filter child tags which specify which Intents launch the activity.
+- **Service**: Just like the activity tag, you must create a new service for each Service class used inside your application. Service tags also support intent-filter child tags to allow late runtime binding.
+- **Provider**: Provider tags are used for each of your application's Content Providers. Content Providers are used to manage database access and sharing within and between applications.
+- **Receiver** : You can register a Broadcast Receiver by adding a receiver tag without having to launch your applicatoin first. Broadcast Receivers are most like global event listeners - once registered, they will execute whenever a matching Intent is broadcast by an application.
 
 ## Uses-permission:
 This is the part of the security model. It declares permission to have determined that your application needs to operate properly. The permission you include will always be presented to the user to either grant or deny during installation. Many native android services require permissions for example those that have a cost or security implication. Examples: Location services, SMS etc...
