@@ -11,6 +11,8 @@ This is the format of : subdomain.domain.org
 - **Build** means that our application is **processing all the instructions** that we added to our program files and it will output an **object file** out of it.
    - we give Object file to our **virtual machine** which helps convert that file into low level instructions to be executed by the machine.
 
+- Gradle : It is an **open source build pipeline** that helps us build projects that are dependent on them.
+
 <details> <summary><h2> What is Override? </h2></summary>
   
 ![Screenshot (262)](https://user-images.githubusercontent.com/94545831/204114248-8c52199c-98dc-4430-bfe2-7c8e9a0c6872.png)
