@@ -5,3 +5,4 @@
 - XML is **extensible markup language** that helps us to define a document in terms of keys and values which are not the json key value. We get opening and closing tags here.
 - Attributes on RHS are the properties of this textView, which we can change.
 - [Importance of Manifest File in Android](https://github.com/utkarsh006/Eazy-Android/blob/main/Articles/5_Significance_of_Manifest_file_in_Android.md)
+- Alpha means transparency in xml. It **sets the opacity** of the view. This is a **value from 0 to 1**, where 0 means the view is completely transparent and 1 means the view is completely opaque.
