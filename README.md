@@ -20,7 +20,7 @@
     <img src="https://github.com/utkarsh006/Eazy-Android/blob/main/.github/IMG/banner.gif" width="550" height="250"/>
 </div>  
 
-<div align="center">Show some ❤️ by starring this repository!</div>
+- JOIN OUR [DISCORD CHANNEL](http://discord.openinapp.co/discord-1-46173) </div>
 
 ## Welcome
 
