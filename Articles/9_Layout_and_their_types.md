@@ -127,7 +127,7 @@ ListView as the name suggests, displays items in list format that can be scrolle
                               |                           |
                               |                           |
                               |                           |
-                              |_________Listiew___________|
+                              |_________ListView___________|
 
 </pre>
 
