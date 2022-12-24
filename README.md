@@ -14,13 +14,7 @@
 
 - JOIN OUR [DISCORD CHANNEL](http://discord.openinapp.co/discord-1-46173) </div>
 
-## Welcome
-
-**Hey, Everyone** 👋 
-
-**Glad to see you all here! Add articles and stuff related to the Android core concepts, as well as Android Interview questions.**
-
-Check out the [open source guides](https://opensource.guide) and our [contribution guidelines](Contribution%20Guidelines.md).
+- Check out the [Open Source Guides](https://opensource.guide) and our [Contributing Guidelines](Contribution%20Guidelines.md).
 
 ## Open Source Programs
 
