@@ -26,11 +26,15 @@ Check out the [open source guides](https://opensource.guide) and our [contributi
 
 [Hacktoberfest 2022](https://hacktoberfest.com/)
 
+<br>
+
 ## Maintainers
 
 | Maintainer   | Collaborator |
 | :----------: | :----------: |
 | <a href="https://github.com/utkarsh006"><img src="https://avatars.githubusercontent.com/u/94545831?v=4" width=150px height=150px /></a><br>Utkarsh Saxena<br><a href="https://www.linkedin.com/in/utkarsh06/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a> | <a href="https://github.com/gurjeetsinghvirdee"><img src="https://avatars.githubusercontent.com/u/73753957?v=4" width=150px height=150px /></a></br>Gurjeet Singh Virdee</h4><br/><a href="https://www.linkedin.com/in/gurjeet-singh-virdee-25a476199/"><img src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" width="32px" height="32px"></a>
+
+<br>
 
 ## Contributors & feedback
 
@@ -38,4 +42,3 @@ Check out the [open source guides](https://opensource.guide) and our [contributi
   <img src="https://contrib.rocks/image?repo=utkarsh006/Eazy-Android" />
 </a>
 
-If you have any feedback or suggestions, please reach out to me ([Utkarsh Saxena](https://github.com/utkarsh006)) or [create an issue](https://github.com/utkarsh006/Eazy-Android/issues) where you can mention some new features or extensions that will enhance this project. ✨
