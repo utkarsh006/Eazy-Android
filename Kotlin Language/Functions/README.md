@@ -1,0 +1,1 @@
+- Read Official docs for Functions [HERE](https://kotlinlang.org/docs/functions.html)
