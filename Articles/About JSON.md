@@ -21,3 +21,10 @@
 - Read more about JSON [HERE](https://www.w3schools.com/js/js_json_intro.asp)
 - [{JSON Object 1},{JSON Object 2}] (List Of Objects)
 - Comments are not allowed in JSON (since it deals with objects).
+
+<br>
+
+### Find JSON Validator [HERE](https://jsonlint.com/)
+### Find JSON viewer [HERE](http://jsonviewer.stack.hu/)
+
+- If we are using REST API in our application, we can use a library called [GSON](https://github.com/google/gson)
