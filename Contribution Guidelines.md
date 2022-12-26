@@ -3,14 +3,19 @@ We are happy to welcome all the contributions from anyone willing to improve thi
 Thank you for helping out and remember, **no contribution is too small**. <br>
 <br>
 - One contributor will work upon ```one issue at a time.``` When pull request of your previous issue is merged, then only the new issue will be assigned to you.
-- Update the README as per your topic.
 - Add any article if it is not present in the ```Article folder.```
 - Articles will be written in the ```.md``` format.
 - Name your md file appropriately. **Ex : 1_ Article.md**
+- Attach the following piece of code in your Article at the end, which will facilitate users to read the next article.
 
-<br>
-
-👻 **Now, Follow these steps :-**
+```
+  <div align="right">
+     <a href="Next article link">READ NEXT ARTICLE</a> 
+  </div>
+```
+   
+ <br>
+   
 ### Step 1 : Create an issue
 ### Step 2 : Fork the Project
 - ```Fork this Repository. This will create a Local Copy of this Repository on your Github Profile. Keep a reference to the original project in upstream remote.```
