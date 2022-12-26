@@ -22,6 +22,24 @@ While the client and the server evolve, we have to make sure that the interface/
 - **3. Stateless :** [Statelessness](https://restfulapi.net/statelessness/) mandates that each request from the client to the server must contain all of the information necessary to understand and complete the request. <br>
  **Current state need not have any information about the previous state.** For this reason, the client application must entirely keep the session state.
  
-- **4. Cacheable :**
-- **5. Layered System :**
-- **6. Code On Demand :**
+- **4. Cacheable :** The cacheable constraint requires that a response should implicitly or explicitly label itself as cacheable or non-cacheable. <br>
+If the response is cacheable, the client application **gets the right to reuse** the response data later for equivalent requests and a specified period.
+
+- **5. Layered System :** The layered system style allows an architecture to be **composed of hierarchical layers** by constraining component behavior.
+       **Ex:** In a layered system, each component cannot see beyond the immediate layer they are interacting with.
+       
+- **6. Code On Demand :** REST also allows client functionality to extend by downloading and executing code in the form of applets or scripts. <br>
+The downloaded code simplifies clients by **reducing the number of features** required to be pre-implemented. <br> Servers can provide part of features delivered to the client in the form of code, and the client only needs to execute the code.
+
+<br>
+
+## Resource 
+The key abstraction of information in REST is a resource. Any information that **we can name** can be a resource. **Ex :** A REST resource can be a document or image, a temporal service, a collection of other resources, or a non-virtual object (a person). <br> The state of the resource, at any particular time, is known as the **resource representation.** <br>
+
+```https://facebook.com/{Resource}```
+- This Resource can be messages, user_id etc.
+
+<br>
+
+<div align="right">
+   <a href="https://github.com/utkarsh006/Eazy-Android/blob/main/Articles/Rest%20Methods.md">READ NEXT ARTICLE</a> </div>
