@@ -15,3 +15,4 @@
 - The primary constructor **cannot contain** any code. Initialization code can be placed in initializer blocks prefixed with the init keyword. There can be **multiple init blocks.**
 
 - Use **this keyword** to call the primary constructor from the secondary constructor.
+- Only Primary constructors can **have properties** inside the arguments.
