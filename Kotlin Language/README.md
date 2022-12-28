@@ -26,7 +26,7 @@
 
 <br>
 
-  <div align="right">
-     <a href="https://github.com/utkarsh006/Eazy-Android/blob/main/Articles/android_project_structure.md"> Learn about Project Structure in Android </a> 
-  </div>
+- [Watch Hindi Videos to learn Kotlin](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G)
+- **Next What?** [Learn about Project Structure in Android](https://github.com/utkarsh006/Eazy-Android/blob/main/Articles/android_project_structure.md)
+    
 
