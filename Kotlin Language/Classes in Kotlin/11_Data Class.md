@@ -12,6 +12,7 @@
 
 ## Rules to create Data classes 
 
+- Data classes have properties only inside the arguments of its constructor.
 - The primary constructor needs to have **at least one parameter.**
 - All primary constructor parameters **need to be** marked as val or var.
 - Data classes cannot be abstract, open, sealed or inner.
