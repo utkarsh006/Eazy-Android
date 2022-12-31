@@ -1,4 +1,6 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/94545831/210053545-c7bf9b0e-bf59-4013-8767-7883fcc56d36.png" /></p>
+<p align="center"><img width="200" src="https://user-images.githubusercontent.com/94545831/210127927-30224000-b46a-45d1-82f5-b01071f186f9.png" /></p>
+
+
 
 - Read Official docs [HERE](https://kotlinlang.org/docs/classes.html)
 
