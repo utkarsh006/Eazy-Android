@@ -10,7 +10,7 @@ class Student(val firstName:String, val lastName:String)
 //extension function
 fun Student.fullName() = "${this.firstName} ${this.lastName}"
 
-fun Int.getEven():Int
+fun Int.getEven():Int   // extension function "getEven" is defined on the Int class
 {
     if(this%2 == 0)  return this
     else return this+1
